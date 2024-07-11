@@ -1,0 +1,15 @@
+footer{
+    margin-top: 40px;
+    background-color: rgb(167, 39, 39);
+    height: 60px;
+    color: floralwhite;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.foot{
+    padding: 20px 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
